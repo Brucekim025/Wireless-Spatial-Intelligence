@@ -1,7 +1,6 @@
 # Wireless-Spatial-Intelligence
 Storage for Wireless Spatial Intelligence assignments and progress
-# 11.12 Update
-Learning on Sionna RT-Radio Map Module
+# 11.12 Update Learning on Sionna RT-Radio Map Module
 Firstly, create an empty scene with a single-antenna transmitter, and the receiver is the same.
 Then we can add the tx and rx to the scene and create a radio map(seen in tx_position).
 After that, the position of the transmitter was changed, and the path gain influenced by the position is shown in the Fig.
